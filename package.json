@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/gatsby-source-strapi.git"
+    "url": "git@github.com:furkanb/gatsby-source-strapi.git"
   },
   "bugs": {
     "url": "https://github.com/strapi/gatsby-source-strapi/issues"
